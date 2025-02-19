@@ -52,4 +52,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyu0918&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=gyu0918&show_icons=true">
 
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjk1526)](https://solved.ac/kjk1526/)
+
   
