@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={kjk1526})](https://solved.ac/{kjk1526})
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyu0918)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **gyu0918/gyu0918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
