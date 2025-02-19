@@ -48,8 +48,8 @@
 <hr>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyu0918&layout=compact" align='left'/><br><br> 
-<img src="https://github-readme-stats.vercel.app/api?username=gyu0918&show_icons=true" align='right'/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyu0918&layout=compact" align='left' height="200"/><br><br> 
+<img src="https://github-readme-stats.vercel.app/api?username=gyu0918&show_icons=true" height="200"/>
 
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjk1526)
