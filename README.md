@@ -4,7 +4,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=1F7EBB&center=true&width=435&lines=환영합니다!!👋" alt="TypingSVG" />
   </a>
 </div>
-
+<div align="center">
+  <a href="https://github.com/gyu0918">
+    <img src="https://github.com/user-attachments/assets/334450c0-de67-47cc-a84f-39351fc396aa" alt="TypingSVG" />
+  </a>
+</div>
 
  ![Image](https://github.com/user-attachments/assets/334450c0-de67-47cc-a84f-39351fc396aa)
 
