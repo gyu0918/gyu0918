@@ -55,10 +55,9 @@
 </div>
 <hr>
 
-
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyu0918&layout=compact" align='left' height="150"/><br><br> 
 <img src="https://github-readme-stats.vercel.app/api?username=gyu0918&show_icons=true" height="150"/>
 
-
-//![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjk1526)
+</div>
   
