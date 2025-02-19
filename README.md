@@ -1,5 +1,5 @@
 <div align="center">
-  ![image](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXIxcTV4MWZ2ZTJqajVxajVhdWF2dDMxbmwwYzRkZDdkY2toeGtoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dRvEZLV0ORAmHT1L5u/giphy.gif){: .align-center}
+ ![Image](https://github.com/user-attachments/assets/334450c0-de67-47cc-a84f-39351fc396aa){: .align-center}
   </a>
 
 <h3 align="center">📚 Tech stack 📚</h3>
