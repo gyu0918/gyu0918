@@ -49,7 +49,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyu0918&layout=compact" align='left'/><br><br> 
-<img src="https://github-readme-stats.vercel.app/api?username=gyu0918&show_icons=true" align='left'/>
+<img src="https://github-readme-stats.vercel.app/api?username=gyu0918&show_icons=true" align='right'/>
 
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjk1526)
