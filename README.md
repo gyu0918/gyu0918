@@ -1,5 +1,5 @@
 <div align="center">
-  ![image](https://giphy.com/gifs/laff-tv-jim-carrey-truman-show-the-dRvEZLV0ORAmHT1L5u.png){: width="20%" height="20%"}
+  ![image](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXIxcTV4MWZ2ZTJqajVxajVhdWF2dDMxbmwwYzRkZDdkY2toeGtoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dRvEZLV0ORAmHT1L5u/giphy.gif){: .align-center}
   </a>
 
 <h3 align="center">📚 Tech stack 📚</h3>
