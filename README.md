@@ -1,6 +1,6 @@
-
+<div align="center">
  ![Image](https://github.com/user-attachments/assets/334450c0-de67-47cc-a84f-39351fc396aa)
- 
+ </div>
 
 <h3 align="center">📚 Tech stack 📚</h3>
 <div align="center">
