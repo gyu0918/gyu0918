@@ -1,6 +1,5 @@
 <div align="center">
-  <a href="https://github.com/gyu0918">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=1F7EBB&center=true&width=435&lines=안녕하세요+김정규+GITHUB+입니다" alt="TypingSVG" />
+  ![image](https://user-images.githubusercontent.com/42318591/83347976-dd69a700-a363-11ea-8e3f-4ca56ce20a87.png){: width="20%" height="20%"}
   </a>
 
 <h3 align="center">📚 Tech stack 📚</h3>
